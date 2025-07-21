@@ -104,4 +104,4 @@ In this section, the main logic of the extension in the `popup.js` script is exp
 
 ## Support
 
-If you have any questions or need help getting started, please open an issue in the repository or contact me via email: <a href="mailto:soumyaecc6@gmail.com">soumyaecc6@gmail.com</a>
+If you have any questions or need help getting started, please open an issue in the repository or contact me via email: <a href="mailto:varshneytiwari2003@gmail.com">varshneytiwari2003@gmail.com</a>
